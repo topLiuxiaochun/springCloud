@@ -26,7 +26,7 @@ bin
 logs
 test-output
 .classpath
-.project
+#.project
 .settings
 .DS_Store
 /target/
