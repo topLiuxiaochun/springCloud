@@ -27,7 +27,7 @@ logs
 test-output
 .classpath
 #.project
-.settings
+#.settings
 .DS_Store
 /target/
 /.idea/
